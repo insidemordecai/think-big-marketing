@@ -107,7 +107,7 @@ nav a:hover {
   padding: 20px 8px;
 }
 
-#blog h1{
+#blog h1 {
   font-size: 45px;
 }
 
@@ -146,14 +146,14 @@ div a {
 }
 
 /* footer section */
-footer{
+footer {
   background-color: #ddd;
   color: #222222;
   margin-top: 25px;
   padding: 10px 5%;
 }
 
-footer p{
+footer p {
   padding: 0;
   margin: 0;
 }
@@ -161,8 +161,9 @@ footer p{
 /* blog article */
 
 .blog-container {
-  width: 50%;
+  max-width: 600px;
   margin: 0 auto 80px auto;
+  padding: 0 15px;
   color: #222222;
 }
 
@@ -201,6 +202,6 @@ footer p{
   color: grey;
 }
 
-.blog-article{
+.blog-article {
   font-size: 18px;
 }
