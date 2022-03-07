@@ -8,4 +8,4 @@ A website to showcase a marketing firm. Click [here][website] to view. The parts
 - Articles with the full blog entry as well as article information (upload date and author info - name and avatar)
 - Simple footer throughout the website.
 
-[website]:https://itsmordecai.github.io/think-big-marketing/
+[website]:https://insidemordecai.github.io/think-big-marketing/
